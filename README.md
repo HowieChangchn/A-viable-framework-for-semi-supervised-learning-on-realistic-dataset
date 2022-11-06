@@ -1,4 +1,7 @@
-# The Implementation with MindSpore of CVPR 2022 MAVOC Challenge's Champion Proposal
+# A viable framework for semi‑supervised learning on realistic dataset (MindSpore)
+
+
+## The Implementation with MindSpore
 
 **Paper Link:**   https://link.springer.com/article/10.1007/s10994-022-06208-6
 
